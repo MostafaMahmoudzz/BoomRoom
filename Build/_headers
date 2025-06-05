@@ -1,18 +1,4 @@
-/kk.framework.js.gz
-  Content-Encoding: gzip
-  Content-Type: application/javascript
-  Cache-Control: public, max-age=31536000
-
-/kk.loader.js
-  Content-Type: application/javascript
-  Cache-Control: public, max-age=31536000
-
-/kk.data.gz
+/*.gz
   Content-Encoding: gzip
   Content-Type: application/octet-stream
-  Cache-Control: public, max-age=31536000
-
-/kk.wasm.gz
-  Content-Encoding: gzip
-  Content-Type: application/wasm
   Cache-Control: public, max-age=31536000
